@@ -1,6 +1,6 @@
-# 📊 Nifty 50 Stock Market Risk & Performance Analysis
+# 📊 Nifty Stock Market Risk & Performance Analysis
 
-An interactive Power BI dashboard analyzing Nifty 50 stocks by combining **returns, volatility, drawdowns, and risk-adjusted performance metrics** to evaluate whether performance justifies the risk taken.
+An interactive Power BI dashboard analyzing Nifty stocks by combining **returns, volatility, drawdowns, and risk-adjusted performance metrics** to evaluate whether performance justifies the risk taken.
 
 ---
 
@@ -173,11 +173,6 @@ Supports time-based investment evaluation.
 
 ---
 
-## 📷 Dashboard Preview
-
-*(Add screenshots here)*
-
----
 
 ## 🚀 How to Use
 
@@ -188,5 +183,4 @@ Supports time-based investment evaluation.
 
 ---
 
-## 📂 Repository Structure
 
